@@ -3,9 +3,9 @@
 
 Introduction
 
-	Traditional fluid simulation limitations and the emergence of deep neural networks
-	Deep Fluids as a novel approach using generative AI models and CNN architecture
-	Visually appealing results and fast simulation on modest computers.
+Traditional fluid simulation limitations and the emergence of deep neural networks
+Deep Fluids as a novel approach using generative AI models and CNN architecture
+Visually appealing results and fast simulation on modest computers.
 
  
 Goal of the Project
